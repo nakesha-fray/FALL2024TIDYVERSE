@@ -13,7 +13,7 @@ library(tidyverse)
 
 ## Introdution
 
-For this week's assignment, I will be using a few TidyVerse packages, and any dataset from fivethirtyeight to create a programming sample “vignette" which will demonstrates how to use one or more of the TidyVerse packages.
+For this week's assignment, I selected a dataset from fivethirtyeight to create a programming sample “vignette" which will demonstrates how to use one or more of the TidyVerse packages.
 
 The dataset I chose was about weather checking from the article: Where People Go To Check The Weather by Walt Hickey: https://fivethirtyeight.com/features/weather-forecast-news-app-habits/
 
